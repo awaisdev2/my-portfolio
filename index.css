@@ -1,0 +1,24 @@
+.rounded-wrap{
+    transition: .5s ease-in-out;
+    border: 2px solid #0ef;
+    border-radius: 50%;
+    box-sizing: 0 0 20px #0ef;
+}
+.rounded-wrap:hover{
+    background: #0ef; 
+    box-shadow: 0 0 20px #0ef;
+    color: #1f242d !important;
+}
+.icons-wrap{
+    background: transparent;
+    color: #0ef !important;
+}
+.download-wrap{
+    box-shadow: 0 0 20px #0ef;
+}
+.btn-wrap{
+    transition: .5s ease-in-out;
+}
+.header{
+    box-shadow: 0 0 40px #0ef;
+}
